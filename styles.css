@@ -132,3 +132,27 @@ footer{
 .espaciadoParrafo {
     margin-bottom:10px;
 }
+
+.dedicatoria{
+background-color: #f5f7fb;
+border-left: 6px solid #2563eb;
+padding: 30px;
+margin-top: 30px;
+border-radius: 12px;
+
+box-shadow: 0 4px 12px rgba(0,0,0,0.10);
+
+}
+
+.dedicatoria h2{
+color: #1e3a8a;
+margin-bottom: 20px;
+font-size: 28px;
+}
+
+.dedicatoria p{
+text-align: justify;
+line-height: 1.9;
+font-size: 17px;
+color: #333;
+}
